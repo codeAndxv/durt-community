@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions (Community Q&A & Ideas)
+    url: https://github.com/codeAndxv/durt-community/discussions
+    about: For questions, usage tips, keyboard shortcut setup, and ideas, please visit Discussions first.
+  - name: 📖 DuRT Official Documentation
+    url: https://durt.dudufuture.com/guide/
+    about: Read our comprehensive guides on setup, permissions, workflows, and FAQs.

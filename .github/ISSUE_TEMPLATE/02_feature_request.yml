@@ -1,0 +1,45 @@
+name: "💡 Feature Request"
+description: Propose a new feature, workflow step, or enhancement for DuRT
+title: "[Feature]: "
+labels: ["enhancement", "feature-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We appreciate your feedback and ideas to make DuRT even better!
+        💡 **Tip**: If your proposal is in its conceptual stage and you'd like community input and upvotes first, consider posting in [GitHub Discussions - Ideas](https://github.com/codeAndxv/durt-community/discussions/categories/ideas).
+
+  - type: textarea
+    id: problem_statement
+    attributes:
+      label: Problem Statement or Use Case
+      description: What challenge or limitation are you currently facing?
+      placeholder: "e.g. When processing technical medical interviews, I need a quick way to batch import glossary terms from CSV..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed_solution
+    attributes:
+      label: Proposed Solution or UX
+      description: Describe the solution you would like to see implemented in DuRT.
+      placeholder: "Add an 'Import CSV' button in Settings -> Glossary with column mapping..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives_considered
+    attributes:
+      label: Alternatives Considered
+      description: Describe any alternative solutions or workarounds you've explored.
+      placeholder: "Currently, I manually paste items one by one into the Tag field..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context or Mockups
+      description: Add any other context, screenshots, or examples here.
+    validations:
+      required: false
