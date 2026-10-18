@@ -4,17 +4,15 @@
 
 **Native macOS Dual-Engine Speech-to-Text · Real-time Simultaneous Translation · Intelligent Workflow Pipeline · Multi-Channel Automated Delivery**
 
-[![Mac App Store](https://img.shields.io/badge/Mac_App_Store-Download-blue?logo=apple&style=for-the-badge)](https://apps.apple.com/app/durt/id6670788647)
+[![Mac App Store](https://img.shields.io/badge/Mac_App_Store-Download-blue?logo=apple&style=for-the-badge)](https://apps.apple.com/app/durt/id6736675809)
 [![GitHub Discussions](https://img.shields.io/badge/Discussions-Join_Community-8A2BE2?logo=github&style=for-the-badge)](https://github.com/codeAndxv/durt-community/discussions)
-[![Documentation](https://img.shields.io/badge/Docs-Official_Site-00BFFF?style=for-the-badge)](https://durt.dudufuture.com)
-[![GitHub Releases](https://img.shields.io/badge/Releases-DMG_Download-success?logo=github&style=for-the-badge)](https://github.com/codeAndxv/durt-community/releases)
-[![Twitter Follow](https://img.shields.io/badge/X-@DuDuFuture8-1DA1F2?logo=x&style=for-the-badge)](https://x.com/DuDuFuture8)
+[![Documentation](https://img.shields.io/badge/Docs-Official_Site-00BFFF?style=for-the-badge)](https://durt.dudufuture.top/guide/)
 
 <p align="center">
   <a href="#-about-durt">About DuRT</a> •
   <a href="#-key-features">Key Features</a> •
   <a href="#-community-navigation">Community Navigation</a> •
-  <a href="#-downloads">Downloads</a> •
+  <a href="#-download-durt">Download</a> •
   <a href="PROMPTS.md">Curated Prompts</a> •
   <a href="ROADMAP.md">Roadmap</a>
 </p>
@@ -57,24 +55,19 @@ Welcome to the official DuRT Community! This repository is dedicated to gatherin
 
 ---
 
-## 📥 Downloads & Installation
+## 📥 Download DuRT
 
-### Option 1: Mac App Store (Recommended)
-Enjoy seamless sandboxed auto-updates and Apple ID receipt management:
-- 👉 [Download DuRT on Mac App Store](https://apps.apple.com/app/durt/id6670788647)
+Enjoy seamless sandboxed auto-updates and Apple ID receipt management on the Mac App Store:
 
-### Option 2: GitHub Releases (Direct DMG)
-For standalone deployments or regions without App Store access:
-- 👉 [Download the latest DMG from GitHub Releases](https://github.com/codeAndxv/durt-community/releases)
+👉 **[Download DuRT on the Mac App Store](https://apps.apple.com/app/durt/id6736675809)**
 
 ---
 
 ## 🔗 Official Links & Resources
 
-- 🏠 **Official Website**: [durt.dudufuture.com](https://durt.dudufuture.com)
-- 📚 **Comprehensive Documentation**: [durt.dudufuture.com/guide/](https://durt.dudufuture.com/guide/)
-- 🐦 **Twitter / X**: [@DuDuFuture8](https://x.com/DuDuFuture8)
-- 📮 **Support & Inquiries**: support@dudufuture.com
+- 🏠 **Official Website**: [durt.dudufuture.top](https://durt.dudufuture.top)
+- 📚 **Comprehensive Documentation**: [durt.dudufuture.top/guide/](https://durt.dudufuture.top/guide/)
+- 📮 **Support & Inquiries**: support@dudufuture.top
 
 ---
 
