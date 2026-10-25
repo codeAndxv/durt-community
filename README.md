@@ -67,7 +67,7 @@ Enjoy seamless sandboxed auto-updates and Apple ID receipt management on the Mac
 
 - 🏠 **Official Website**: [durt.dudufuture.top](https://durt.dudufuture.top)
 - 📚 **Comprehensive Documentation**: [durt.dudufuture.top/guide/](https://durt.dudufuture.top/guide/)
-- 📮 **Support & Inquiries**: support@dudufuture.top
+- 📮 **Support & Inquiries**: dufuture@outlook.com
 
 ---
 
